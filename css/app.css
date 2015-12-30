@@ -9,6 +9,21 @@ span.button {
 	margin: 0;
 }
 
+ul.menu li {
+	padding-left: 20px;
+	color: #ffffff;
+}
+
+ul.menu li span.button {
+	color: #ffffff;
+	background-color: hsl(26, 100%, 45%);
+	height: 38px;
+	border-radius: 4px;
+}
+
+ul.menu li span.button:hover {
+	background-color: hsla(33, 96%, 41%, 0.55);
+}
 
 a.github {
 	text-align: right;
@@ -56,8 +71,6 @@ img.octicon-mark-github {
 li.site-name {
 	color: #ffffff;
 	font: 24px Avenir;
-}
-div.top-bar-right {
 }
 
 div.top-nav-bar{
