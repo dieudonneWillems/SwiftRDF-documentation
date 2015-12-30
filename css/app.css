@@ -80,3 +80,17 @@ div.top-nav-bar{
 	left: 0;
 	right: 0;
 }
+
+div.catch-line {
+	font-size: 52px;
+	margin: 20px 80px;
+}
+
+div.summary {
+	font-size: 26px;
+	margin: 20px 60px;
+}
+
+div.front {
+	text-align: center;
+}
