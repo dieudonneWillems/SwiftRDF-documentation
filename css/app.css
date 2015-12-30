@@ -1,0 +1,69 @@
+/* @override 
+	http://localhost:4000/SwiftRDF-documentation/css/app.css */
+	
+body {
+	font: 16px Avenir;
+}
+
+span.button {
+	margin: 0;
+}
+
+
+a.github {
+	text-align: right;
+	margin: 0;
+}
+
+.menu > li:not(.menu-text) > a {
+	padding: 5px;
+	margin: 5px;
+}
+
+li.menu {
+	background-color: rgba(249, 71, 71, 0);
+}
+
+li.github {
+	margin: 0;
+	padding: 0;
+}
+
+a.github:hover {
+	background-color: hsla(33, 96%, 41%, 0.55);
+	border-radius: 5px;
+}
+
+div.content {
+	margin-top: 90px;
+}
+
+span.octicon-mark-github {
+	color: #ffffff;
+	display: inline-block;
+	font: 12px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	text-align: center;
+}
+
+img.octicon-mark-github {
+	width: 28px;
+	height: 28px;
+	margin-right: 3px;
+    display: inline-block;
+    vertical-align: top;
+}
+	
+li.site-name {
+	color: #ffffff;
+	font: 24px Avenir;
+}
+div.top-bar-right {
+}
+
+div.top-nav-bar{
+	background: url(../images/header-bg.png);
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+}
